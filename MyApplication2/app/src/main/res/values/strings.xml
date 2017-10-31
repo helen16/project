@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="greeting">Welcome to application></string>
+    <string name="name">Write your name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="imageViewDescription">Image</string>
+</resources>
